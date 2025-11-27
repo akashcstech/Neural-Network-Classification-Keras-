@@ -1,3 +1,3 @@
-# Neural-Network-Classification-Keras-
+# Neural-Network-Classification-(Keras)
 Created a neural network model for image classification.
 This is Ongoing project! kindly wait for the update...
